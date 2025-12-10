@@ -43,7 +43,7 @@ This project was built with a **vibe coding workflow** — focusing on:
 - `script.js` – Client-side interactions  
 - `logo.png` – Website logo  
 - `favicon.png` – Browser tab icon  
-- `generated_image_*.png` – Visual assets  
+- `images.png` – Visual assets  
 
 ---
 
